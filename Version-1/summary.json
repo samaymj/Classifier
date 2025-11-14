@@ -1,0 +1,214 @@
+{
+  "total_tickets": 300,
+  "counts_per_category": {
+    "Billing": 50,
+    "Internet": 50,
+    "Delivery": 50,
+    "Technical Support": 50,
+    "Account": 50,
+    "Others": 50
+  },
+  "unclassified_count": 50,
+  "unclassified_tickets": [
+    {
+      "ticket_id": "T251",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T252",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T253",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T254",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T255",
+      "description": "I need help with something"
+    },
+    {
+      "ticket_id": "T256",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T257",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T258",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T259",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T260",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T261",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T262",
+      "description": "I need help with something"
+    },
+    {
+      "ticket_id": "T263",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T264",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T265",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T266",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T267",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T268",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T269",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T270",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T271",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T272",
+      "description": "I need help with something"
+    },
+    {
+      "ticket_id": "T273",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T274",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T275",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T276",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T277",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T278",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T279",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T280",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T281",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T282",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T283",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T284",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T285",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T286",
+      "description": "I need help with something"
+    },
+    {
+      "ticket_id": "T287",
+      "description": "Weather is nice today"
+    },
+    {
+      "ticket_id": "T288",
+      "description": "My chair is broken"
+    },
+    {
+      "ticket_id": "T289",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T290",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T291",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T292",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T293",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T294",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T295",
+      "description": "I need help with something"
+    },
+    {
+      "ticket_id": "T296",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T297",
+      "description": "I saw a bird outside"
+    },
+    {
+      "ticket_id": "T298",
+      "description": "I need help with something"
+    },
+    {
+      "ticket_id": "T299",
+      "description": "Random statement without relevance"
+    },
+    {
+      "ticket_id": "T300",
+      "description": "My chair is broken"
+    }
+  ]
+}
